@@ -16,3 +16,5 @@ Camera Button :
 - W, A, S, D, O, L = Merubah nilai koordinat asal (f : from)
 - Arrow UP, DOWN, LEFT, RIGHT, Page up, Page down = merubah nilai koordinat tujuan (t : to)
 
+Normal Keyboard button : 
+- Z, X= Berguna untuk melakukan perputaran pada planet

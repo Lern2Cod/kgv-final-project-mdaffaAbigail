@@ -111,6 +111,11 @@ void keyboard1(unsigned char key, int x, int y)
         day = (day + 1) % 360;
         year = (year + 2) % 360;
         break;
+    case 'x':
+        u -= du;
+        day = (day - 1) % 360;
+        year = (year - 2) % 360;
+        break;
     case 27:
         exit(0);
         break;
